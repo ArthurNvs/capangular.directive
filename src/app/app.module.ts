@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ChangeTextDirective } from './shared/directives/change-text/change-text.directive';
+import { ChangeTextDirective } from './shared/directives/change-text/change-color.directive';
 import { ChildComponent } from './components/child/child.component';
 
 @NgModule({
